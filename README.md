@@ -5,4 +5,4 @@
 <p>:coffee:Conselheiro Lafaiete - MG</p>
 <p>:rocket:Cursando Engenharia de Software</p>
 <p>:seedling:Estudando Html5 e Css3</p>
-<p>:bookmark:Meu e-mail de contato e-mail: antoniosfidelis@outlook.com</p>
+<p>:bookmark:Meu e-mail de contato:antoniosfidelis@outlook.com</p>
