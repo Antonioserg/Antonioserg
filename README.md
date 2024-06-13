@@ -1,7 +1,7 @@
 ### Hi there 👋Eu Sou o Antônio Sérgio
 
 <p>:blue_heart: Sobre mim: </p>
-<p>:hugs:Tenho 23 anos</p>
+<p>:hugs:Tenho 24 anos</p>
 <p>:coffee:Conselheiro Lafaiete - MG</p>
 <p>:rocket:Cursando Engenharia de Software</p>
 <p>:seedling:Estudando Html5 e Css3</p>
